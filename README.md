@@ -69,3 +69,4 @@ Choose the modules you want to explore:
 * Tactical planning
 * Replay & highlights
 * Training goals
+.
